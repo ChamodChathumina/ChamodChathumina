@@ -61,7 +61,7 @@ Building Skills in Software & Web Development
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-# GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ChamodChathumina&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ChamodChathumina&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodChathumina&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
