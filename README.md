@@ -31,7 +31,7 @@ Building Skills in Software & Web Development
 
 - 🤝 I’m looking for help with **Improving real-world project structure and backend integration**
 
-- 👨‍💻 All of my projects are available at (https://github.com/ChamodChathumina)
+- 👨‍💻 All of my projects are available at https://github.com/ChamodChathumina
 - 💬 Ask me about **Frontend basics, beginner programming, and learning resources**
 
 - 📫 How to reach me **chamodchathumina82@gmail.com**
