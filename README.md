@@ -42,8 +42,8 @@ Building Skills in Software & Web Development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/chamod-samarawickrama-930ab23ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameen lakshitha" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/chamod-samarawickrama-930ab23ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameen lakshitha" height="30" width="40" /></a>    
+</p>          
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
@@ -59,4 +59,10 @@ Building Skills in Software & Web Development
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
